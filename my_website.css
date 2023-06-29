@@ -1,0 +1,28 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+#wrap{
+    text-align: center;
+}
+#header{
+    margin-top:18px;
+    background-image:url('chung.png');
+    background-color: rgb(43, 226, 98);
+    width:1200px;
+    height:150px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#wrap-center{
+    width:1200px;
+    height:2000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    font-family: 나눔고딕, 바탕;
+    font-size: 60;
+}
