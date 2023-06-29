@@ -9,20 +9,42 @@ html, body{
     margin-top:18px;
     background-image:url('chung.png');
     background-color: rgb(43, 226, 98);
-    width:1200px;
-    height:150px;
+    width:auto;
+    height:100px;
     margin-left:auto;
     margin-right:auto;
 }
-#wrap-center{
-    width:1200px;
-    height:2000px;
+#part{
+    width:1400px;
+    height:1500px;
     margin-left: auto;
     margin-right: auto;
     background-color: yellow;
+}
+#part-1{
+    width: 1400px;
+    height:500px;
+    background-color:green;
+}
+#part-2{
+    width: 1400px;
+    height:500px;
+    background-color:rgb(255, 222, 10);
+}
+#part-3{
+    width: 1400px;
+    height:500px;
+    background-color:rgb(243, 75, 156);
 }
 h1{
     text-align: center;
     font-family: 나눔고딕, 바탕;
     font-size: 60;
+}
+#end{
+    width:1400px;
+    height:120px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgb(102, 0, 255);
 }
